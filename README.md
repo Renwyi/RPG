@@ -7,4 +7,5 @@ Está presente:
 * Classes
 * Habilidades
 
- E informações sobre o próprio paranormal
+ E informações sobre o próprio paranormal:
+https://github.com/Renwyi/RPG/releases/download/livroderegras/Livro.de.Regras.Ordem.pdf
