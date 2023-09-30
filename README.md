@@ -1,6 +1,5 @@
 # Livro de regras
 
-
 Está presente:
 
 * Manual de como jogar
